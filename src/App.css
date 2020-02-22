@@ -11,3 +11,20 @@
   width: 80px;
   border-radius: 10%;
 }
+
+#newsletter-table {
+  margin-top: 45px;
+  border: none;
+}
+
+#newsletter-table td {
+  border: none;
+}
+
+#newsletter-table td h5 {
+  font-size: 18px;
+}
+
+#newsletter-table td:first-child {
+  width: 50px;
+}
