@@ -6,7 +6,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <NewsletterComponent />
+        <div id="app-wrapper">
+          <h2>Newsletters.best</h2>
+          <h4>The best newsletters online today</h4>
+          <NewsletterComponent />
+        </div>
       </header>
     </div>
   );
