@@ -5,3 +5,9 @@
 #app-wrapper h4 {
   font-style: italic;
 }
+
+.newsletter-icon {
+  height: 80px;
+  width: 80px;
+  border-radius: 10%;
+}

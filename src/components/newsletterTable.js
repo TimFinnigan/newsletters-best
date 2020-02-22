@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import Table from "react-bootstrap/Table";
+import brainpickings from "./../images/newsletter-icons/brainpickings.jpg";
+import hackernews from "./../images/newsletter-icons/hacker-news.png";
 
 class NewsletterComponent extends Component {
   render() {
@@ -7,29 +9,43 @@ class NewsletterComponent extends Component {
       <Table striped bordered hover variant="dark">
         <thead>
           <tr>
-            <th>#</th>
-            <th>First Name</th>
-            <th>Last Name</th>
-            <th>Username</th>
+            <th>(icon)</th>
+            <th>(name / url)</th>
+            <th>(description)</th>
+            <th>(tags)</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td>1</td>
-            <td>Mark</td>
-            <td>Otto</td>
-            <td>@mdo</td>
+            <td>
+              <img
+                class="newsletter-icon"
+                src={brainpickings}
+                alt="Brainpickings"
+              />
+            </td>
+            <td>Brainpickings</td>
+            <td></td>
+            <td></td>
           </tr>
           <tr>
-            <td>2</td>
-            <td>Jacob</td>
-            <td>Thornton</td>
-            <td>@jacob</td>
+            <td>
+              {" "}
+              <img
+                class="newsletter-icon"
+                src={hackernews}
+                alt="Hacker News"
+              />
+            </td>
+            <td>Hacker News</td>
+            <td></td>
+            <td></td>
           </tr>
           <tr>
-            <td>3</td>
-            <td colSpan="2">Larry the Bird</td>
-            <td>@twitter</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
           </tr>
         </tbody>
       </Table>
