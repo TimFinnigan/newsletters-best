@@ -21,7 +21,7 @@
   border: none;
 }
 
-#newsletter-table td h5 {
+#newsletter-table td a {
   font-size: 18px;
 }
 

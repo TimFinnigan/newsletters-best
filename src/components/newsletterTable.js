@@ -26,7 +26,9 @@ class NewsletterComponent extends Component {
               />
             </td>
             <td>
-              <h5>Brainpickings</h5>
+              <a href="https://www.brainpickings.org/newsletter/">
+                Brainpickings
+              </a>
             </td>
             <td></td>
             <td></td>
@@ -36,17 +38,23 @@ class NewsletterComponent extends Component {
               <img class="newsletter-icon" src={hackernews} alt="Hacker News" />
             </td>
             <td>
-              <h5>Hacker News</h5>
+              <a href="https://hackernewsletter.com/">Hacker News</a>
             </td>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td>
-              <img class="newsletter-icon" src={fivebulletfriday} alt="Five Bullet Friday" />
+              <img
+                class="newsletter-icon"
+                src={fivebulletfriday}
+                alt="Five Bullet Friday"
+              />
             </td>
             <td>
-              <h5>Five-Bullet Friday</h5>
+              <a href="https://go.tim.blog/5-bullet-friday-1/">
+                Five-Bullet Friday
+              </a>
             </td>
             <td></td>
             <td></td>
