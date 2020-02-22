@@ -26,9 +26,19 @@ class NewsletterComponent extends Component {
               />
             </td>
             <td>
-              <a href="https://www.brainpickings.org/newsletter/">
+              <a
+                href="https://www.brainpickings.org/newsletter/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Brainpickings
               </a>
+              <span class="description">
+                A free Sunday digest of the week’s most interesting and
+                inspiring articles across art, science, philosophy, creativity,
+                children’s books, and other strands of our search for truth,
+                beauty, and meaning.
+              </span>
             </td>
             <td></td>
             <td></td>
@@ -38,7 +48,19 @@ class NewsletterComponent extends Component {
               <img class="newsletter-icon" src={hackernews} alt="Hacker News" />
             </td>
             <td>
-              <a href="https://hackernewsletter.com/">Hacker News</a>
+              <a
+                href="https://hackernewsletter.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Hacker News
+              </a>
+              <span class="description">
+                Since 2010, we've put out a weekly newsletter of the best
+                articles on startups, technology, programming, and more. All
+                links are curated by hand from Hacker News. Join 60,000+ other
+                subscribers and don't miss another week.
+              </span>
             </td>
             <td></td>
             <td></td>
@@ -52,9 +74,20 @@ class NewsletterComponent extends Component {
               />
             </td>
             <td>
-              <a href="https://go.tim.blog/5-bullet-friday-1/">
+              <a
+                href="https://go.tim.blog/5-bullet-friday-1/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Five-Bullet Friday
               </a>
+              <span class="description">
+                Every Friday, I send out an exclusive email with the five
+                coolest things I’ve found (or explored) that week. It could
+                include exclusive giveaways or chances to interact with me,
+                books, gadgets, albums, articles, new hacks/tricks, and — of
+                course — all sorts of weird stuff I dig up around the world.
+              </span>
             </td>
             <td></td>
             <td></td>

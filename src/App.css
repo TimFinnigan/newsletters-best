@@ -13,7 +13,7 @@
 }
 
 #newsletter-table {
-  margin-top: 45px;
+  margin-top: 25px;
   border: none;
 }
 
@@ -23,8 +23,17 @@
 
 #newsletter-table td a {
   font-size: 18px;
+  display: block;
 }
 
 #newsletter-table td:first-child {
   width: 50px;
+}
+
+#newsletter-table td:nth-child(2) {
+  width: 500px;
+}
+
+.description {
+  font-style: italic;
 }
