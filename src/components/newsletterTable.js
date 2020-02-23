@@ -3,6 +3,7 @@ import Table from "react-bootstrap/Table";
 import brainpickings from "./../images/newsletter-icons/brainpickings.jpg";
 import hackernews from "./../images/newsletter-icons/hacker-news.png";
 import fivebulletfriday from "./../images/newsletter-icons/five-bullet-friday.jpg";
+import thebrowser from "./../images/newsletter-icons/the-browser.jpg";
 
 class NewsletterComponent extends Component {
   render() {
@@ -88,6 +89,25 @@ class NewsletterComponent extends Component {
                 books, gadgets, albums, articles, new hacks/tricks, and — of
                 course — all sorts of weird stuff I dig up around the world.
               </span>
+            </td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              <img class="newsletter-icon" src={thebrowser} alt="The Browser" />
+            </td>
+            <td>
+              <a
+                href="https://thebrowser.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                The Browser
+              </a>
+              Every day we read hundreds of articles and select the best five
+              for you to enjoy so you’ll always have something to read on the
+              train and interesting things to say at dinner.
             </td>
             <td></td>
             <td></td>
