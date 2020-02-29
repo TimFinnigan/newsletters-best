@@ -27,5 +27,18 @@
             "name": "Five-Bullet Friday",
             "url": "https://go.tim.blog/5-bullet-friday-1/"
         }
+    },
+    {
+        "author": "Ryan Holiday",
+        "description": "5 to 10 amazing books that I read, reviewed and think you’ll like. The goal of the newsletter is to recommend books that stick with you long after you’ve put them down—or better yet, change your life.",
+        "categories": [
+            "Books"
+        ],
+        "frequency": "Monthly",
+        "image": "https://149366099.v2.pressablecdn.com/wp-content/uploads/2018/06/r-holiday-500px.jpg",
+        "source": {
+            "name": "Reading Recommendations",
+            "url": "https://ryanholiday.net/reading-newsletter/"
+        }
     }
 ]
