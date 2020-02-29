@@ -13,5 +13,20 @@
             "name": "Brainpickings",
             "url": "https://www.brainpickings.org/newsletter/"
         }
+    },
+    {
+        "author": "Maria Popova",
+        "description": "The week’s most interesting and inspiring articles across art, science, philosophy, creativity, children’s books, and other strands of our search for truth, beauty, and meaning.",
+        "categories": [
+            "Literature",
+            "Philosophy",
+            "Psychology"
+        ],
+        "frequency": "Weekly",
+        "image": "https://www.brainpickings.org/wp-content/themes/brainpickings/images/brain_pickings_icon@2x.png",
+        "source": {
+            "name": "Brainpickings",
+            "url": "https://www.brainpickings.org/newsletter/"
+        }
     }
 ]

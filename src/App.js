@@ -24,6 +24,11 @@ function App() {
         Header: "Newsletter",
         columns: [
           {
+            Header: " ",
+            accessor: "image",
+            Cell: ({ cell: { value } }) => <img class="icon" src={value} />
+          },
+          {
             Header: "Name",
             accessor: "source",
             Cell: ({ cell: { value } }) => (
@@ -36,15 +41,6 @@ function App() {
             Header: "Author",
             accessor: "author"
           }
-          // {
-          //   Header: "image",
-          //   accessor: "newsletter",
-          //   Cell: ({ cell: { value } }) => (
-          //     <a href={value.image} target="_blank" rel="noopener noreferrer">
-          //       {value.name}
-          //     </a>
-          //   )
-          // }
         ]
       },
       {

@@ -42,9 +42,11 @@ table {
   border-spacing: 0;
   border: 1px solid #ededed;
 }
+
 table tr:last-child td {
   border-bottom: 0;
 }
+
 table th,
 table td {
   margin: 0;
@@ -53,14 +55,16 @@ table td {
   border-right: 1px solid #ededed;
   position: relative;
 }
+
 table th:last-child,
 table td:last-child {
   border-right: 0;
 }
 
-table td:nth-child(3) {
+table td:nth-child(4) {
   max-width: 300px;
 }
+
 table tr:nth-child(even) {
   background-color: #fafafa;
 }
@@ -75,9 +79,11 @@ table th::before {
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
 }
+
 table th.sort-asc::before {
   border-bottom: 5px solid #22543d;
 }
+
 table th.sort-desc::before {
   border-top: 5px solid #22543d;
 }
@@ -100,6 +106,7 @@ table th.sort-desc::before {
   font-weight: bold;
   text-transform: uppercase;
 }
+
 input {
   padding: 10px;
   margin-bottom: 20px;
@@ -107,4 +114,11 @@ input {
   border-radius: 5px;
   border: 1px solid #ddd;
   box-shadow: none;
+}
+
+.icon {
+  height: 60px;
+  width: 60px;
+  display: block;
+  margin: 0 auto;
 }
