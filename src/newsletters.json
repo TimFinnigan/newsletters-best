@@ -3,9 +3,9 @@
         "author": "Maria Popova",
         "description": "The week’s most interesting and inspiring articles across art, science, philosophy, creativity, children’s books, and other strands of our search for truth, beauty, and meaning.",
         "categories": [
-            "Literature",
-            "Philosophy",
-            "Psychology"
+            "Art",
+            "Science",
+            "Philosophy"
         ],
         "frequency": "Weekly",
         "image": "https://www.brainpickings.org/wp-content/themes/brainpickings/images/brain_pickings_icon@2x.png",
@@ -15,18 +15,17 @@
         }
     },
     {
-        "author": "Maria Popova",
-        "description": "The week’s most interesting and inspiring articles across art, science, philosophy, creativity, children’s books, and other strands of our search for truth, beauty, and meaning.",
+        "author": "Tim Ferriss",
+        "description": "The five coolest things I’ve found (or explored) that week. It could include exclusive giveaways or chances to interact with me, books, gadgets, albums, articles, new hacks/tricks, and — of course — all sorts of weird stuff I dig up around the world.",
         "categories": [
-            "Literature",
-            "Philosophy",
-            "Psychology"
+            "Business",
+            "Technology"
         ],
         "frequency": "Weekly",
-        "image": "https://www.brainpickings.org/wp-content/themes/brainpickings/images/brain_pickings_icon@2x.png",
+        "image": "https://peterattiamd.com/wp-content/uploads/2018/06/TimFerrissShoot-186.jpg",
         "source": {
-            "name": "Brainpickings",
-            "url": "https://www.brainpickings.org/newsletter/"
+            "name": "Five-Bullet Friday",
+            "url": "https://go.tim.blog/5-bullet-friday-1/"
         }
     }
 ]
