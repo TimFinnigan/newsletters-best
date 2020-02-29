@@ -27,7 +27,7 @@ function App() {
             Header: "Name",
             accessor: "show",
             Cell: ({ cell: { value } }) => (
-              <a href={value.url} target="_blank">
+              <a href={value.url} target="_blank" rel="noopener noreferrer">
                 {value.name}
               </a>
             )

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { useTable, useFilters, useGlobalFilter, useSortBy } from "react-table";
 
 function GlobalFilter({
@@ -10,16 +10,14 @@ function GlobalFilter({
 
   return (
     <span>
-      Search:{" "}
       <input
         value={globalFilter || ""}
         onChange={e => {
           setGlobalFilter(e.target.value || undefined); // Set undefined to remove the filter entirely
         }}
-        placeholder={`${count} records...`}
+        placeholder={`Search ${count} newsletters...`}
         style={{
-          fontSize: "1.1rem",
-          border: "0"
+          width: "100%"
         }}
       />
     </span>
@@ -27,7 +25,6 @@ function GlobalFilter({
 }
 
 export default function Table({ columns, data }) {
-  const [filterInput, setFilterInput] = useState("");
   // Use the state and functions returned from useTable to build your UI
   const {
     getTableProps,
@@ -35,7 +32,6 @@ export default function Table({ columns, data }) {
     headerGroups,
     rows,
     prepareRow,
-    setFilter,
     state,
     preGlobalFilteredRows,
     setGlobalFilter
@@ -49,20 +45,9 @@ export default function Table({ columns, data }) {
     useSortBy
   );
 
-  const handleFilterChange = e => {
-    const value = e.target.value || undefined;
-    setFilter("show.genres", value);
-    setFilterInput(value);
-  };
-
   // Render the UI for your table
   return (
     <>
-      <input
-        value={filterInput}
-        onChange={handleFilterChange}
-        placeholder={"Search..."}
-      />
       <GlobalFilter
         preGlobalFilteredRows={preGlobalFilteredRows}
         globalFilter={state.globalFilter}

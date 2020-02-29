@@ -84,8 +84,10 @@ table th.sort-desc::before {
   padding: 20px;
 }
 .badge {
-  background-color: #9ae6b4;
-  color: #22543d;
+  /* background-color: #9ae6b4;
+  color: #22543d; */
+  background-color:steelblue;
+  color: #fff;
   margin-right: 4px;
   padding: 4px 8px;
   border-radius: 12px;
