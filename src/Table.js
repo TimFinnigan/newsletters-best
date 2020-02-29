@@ -1,5 +1,30 @@
 import React, { useState } from "react";
-import { useTable, useFilters, useSortBy } from "react-table";
+import { useTable, useFilters, useGlobalFilter, useSortBy } from "react-table";
+
+function GlobalFilter({
+  preGlobalFilteredRows,
+  globalFilter,
+  setGlobalFilter
+}) {
+  const count = preGlobalFilteredRows.length;
+
+  return (
+    <span>
+      Search:{" "}
+      <input
+        value={globalFilter || ""}
+        onChange={e => {
+          setGlobalFilter(e.target.value || undefined); // Set undefined to remove the filter entirely
+        }}
+        placeholder={`${count} records...`}
+        style={{
+          fontSize: "1.1rem",
+          border: "0"
+        }}
+      />
+    </span>
+  );
+}
 
 export default function Table({ columns, data }) {
   const [filterInput, setFilterInput] = useState("");
@@ -10,13 +35,17 @@ export default function Table({ columns, data }) {
     headerGroups,
     rows,
     prepareRow,
-    setFilter
+    setFilter,
+    state,
+    preGlobalFilteredRows,
+    setGlobalFilter
   } = useTable(
     {
       columns,
       data
     },
     useFilters,
+    useGlobalFilter,
     useSortBy
   );
 
@@ -32,7 +61,13 @@ export default function Table({ columns, data }) {
       <input
         value={filterInput}
         onChange={handleFilterChange}
-        placeholder={"Filter by Category"}
+        placeholder={"Search..."}
+      />
+      <GlobalFilter
+        preGlobalFilteredRows={preGlobalFilteredRows}
+        globalFilter={state.globalFilter}
+        setGlobalFilter={setGlobalFilter}
+        onChange={setGlobalFilter}
       />
       <table {...getTableProps()}>
         <thead>
