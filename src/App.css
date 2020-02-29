@@ -57,6 +57,10 @@ table th:last-child,
 table td:last-child {
   border-right: 0;
 }
+
+table td:nth-child(3) {
+  max-width: 300px;
+}
 table tr:nth-child(even) {
   background-color: #fafafa;
 }

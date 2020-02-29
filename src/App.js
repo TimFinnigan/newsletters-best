@@ -3,7 +3,7 @@ import Table from "./Table";
 import "./App.css";
 let newsletters = require("./newsletters.json");
 
-const Genres = ({ values }) => {
+const Categories = ({ values }) => {
   return (
     <>
       {values.map((genre, idx) => {
@@ -25,7 +25,7 @@ function App() {
         columns: [
           {
             Header: "Name",
-            accessor: "show",
+            accessor: "source",
             Cell: ({ cell: { value } }) => (
               <a href={value.url} target="_blank" rel="noopener noreferrer">
                 {value.name}
@@ -34,8 +34,17 @@ function App() {
           },
           {
             Header: "Author",
-            accessor: "show.type"
+            accessor: "author"
           }
+          // {
+          //   Header: "image",
+          //   accessor: "newsletter",
+          //   Cell: ({ cell: { value } }) => (
+          //     <a href={value.image} target="_blank" rel="noopener noreferrer">
+          //       {value.name}
+          //     </a>
+          //   )
+          // }
         ]
       },
       {
@@ -43,16 +52,16 @@ function App() {
         columns: [
           {
             Header: "Description",
-            accessor: "show.url"
+            accessor: "description"
           },
           {
             Header: "Category",
-            accessor: "show.genres",
-            Cell: ({ cell: { value } }) => <Genres values={value} />
+            accessor: "categories",
+            Cell: ({ cell: { value } }) => <Categories values={value} />
           },
           {
             Header: "Frequency",
-            accessor: "show.status"
+            accessor: "frequency"
           }
         ]
       }
