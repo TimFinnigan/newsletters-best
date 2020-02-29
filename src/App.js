@@ -1,8 +1,7 @@
-import React, { useMemo, useState, useEffect } from "react";
-import axios from "axios";
-
+import React, { useMemo } from "react";
 import Table from "./Table";
 import "./App.css";
+let newsletters = require("./newsletters.json");
 
 const Genres = ({ values }) => {
   return (
@@ -22,14 +21,14 @@ function App() {
   const columns = useMemo(
     () => [
       {
-        Header: "TV Show",
+        Header: "Newsletter",
         columns: [
           {
             Header: "Name",
             accessor: "show.name"
           },
           {
-            Header: "Type",
+            Header: "Description",
             accessor: "show.type"
           }
         ]
@@ -38,30 +37,12 @@ function App() {
         Header: "Details",
         columns: [
           {
-            Header: "Language",
-            accessor: "show.language"
-          },
-          {
             Header: "Genre(s)",
             accessor: "show.genres",
             Cell: ({ cell: { value } }) => <Genres values={value} />
           },
           {
-            Header: "Runtime",
-            accessor: "show.runtime",
-            Cell: ({ cell: { value } }) => {
-              const hour = Math.floor(value / 60);
-              const min = Math.floor(value % 60);
-              return (
-                <>
-                  {hour > 0 ? `${hour} hr${hour > 1 ? "s" : ""} ` : ""}
-                  {min > 0 ? `${min} min${min > 1 ? "s" : ""}` : ""}
-                </>
-              );
-            }
-          },
-          {
-            Header: "Status",
+            Header: "Frequency",
             accessor: "show.status"
           }
         ]
@@ -70,18 +51,9 @@ function App() {
     []
   );
 
-  const [data, setData] = useState([]);
-
-  useEffect(() => {
-    (async () => {
-      const result = await axios("https://api.tvmaze.com/search/shows?q=test");
-      setData(result.data);
-    })();
-  }, []);
-
   return (
     <div className="App">
-      <Table columns={columns} data={data} />
+      <Table columns={columns} data={newsletters} />
     </div>
   );
 }
