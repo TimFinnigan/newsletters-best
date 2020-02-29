@@ -32,7 +32,7 @@ export default function Table({ columns, data }) {
       <input
         value={filterInput}
         onChange={handleFilterChange}
-        placeholder={"Filter by genre"}
+        placeholder={"Filter by Category"}
       />
       <table {...getTableProps()}>
         <thead>

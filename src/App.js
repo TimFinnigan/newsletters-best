@@ -28,7 +28,7 @@ function App() {
             accessor: "show.name"
           },
           {
-            Header: "Description",
+            Header: "Author",
             accessor: "show.type"
           }
         ]
@@ -37,7 +37,11 @@ function App() {
         Header: "Details",
         columns: [
           {
-            Header: "Genre(s)",
+            Header: "Description",
+            accessor: "show.url"
+          },
+          {
+            Header: "Category",
             accessor: "show.genres",
             Cell: ({ cell: { value } }) => <Genres values={value} />
           },
