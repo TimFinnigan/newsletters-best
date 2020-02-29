@@ -25,7 +25,12 @@ function App() {
         columns: [
           {
             Header: "Name",
-            accessor: "show.name"
+            accessor: "show",
+            Cell: ({ cell: { value } }) => (
+              <a href={value.url} target="_blank">
+                {value.name}
+              </a>
+            )
           },
           {
             Header: "Author",
