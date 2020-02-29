@@ -81,12 +81,13 @@ table th.sort-desc::before {
 .App {
   display: flex;
   flex-direction: column;
-  padding: 20px;
+  padding: 0px 20px 20px 20px;
 }
+
 .badge {
   /* background-color: #9ae6b4;
   color: #22543d; */
-  background-color:steelblue;
+  background-color: steelblue;
   color: #fff;
   margin-right: 4px;
   padding: 4px 8px;

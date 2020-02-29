@@ -62,6 +62,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>newsletters.best</h1>
       <Table columns={columns} data={newsletters} />
     </div>
   );
