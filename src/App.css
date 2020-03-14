@@ -132,3 +132,13 @@ table td:nth-child(4) {
   max-width: 300px;
   font-style: italic;
 }
+
+@media only screen and (max-width: 600px) {
+  table thead tr:first-child,
+  table th:first-child,
+  table th:nth-child(4),
+  table td:first-child,
+  table td:nth-child(4) {
+    display: none;
+  }
+}
