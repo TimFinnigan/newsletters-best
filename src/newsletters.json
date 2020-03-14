@@ -40,5 +40,32 @@
             "name": "Reading Recommendations",
             "url": "https://ryanholiday.net/reading-newsletter/"
         }
+    },
+    {
+        "author": "Benedict Evans",
+        "description": "My notes for the week on the news that actually matters and what it might mean.",
+        "categories": [
+            "Business",
+            "Technology"
+        ],
+        "frequency": "Weekly",
+        "image": "https://pbs.twimg.com/profile_images/845396356579508224/1ruiOPLI_400x400.jpg",
+        "source": {
+            "name": "Newsletter",
+            "url": "https://www.ben-evans.com/"
+        }
+    },
+    {
+        "author": "NY Times",
+        "description": "Wake Up With The Times, Anywhere in the World. Get the Morning Briefing in your inbox. What you need to know to start your day, each weekday morning.",
+        "categories": [
+            "News"
+        ],
+        "frequency": "Daily",
+        "image": "https://static01.nyt.com/email-images/Newsletter%20Icons/Morning-Briefing.png",
+        "source": {
+            "name": "Morning Briefing",
+            "url": "https://www.nytimes.com/interactive/2018/briefing/global-morning-briefing-newsletter-signup.html"
+        }
     }
 ]
