@@ -26,7 +26,9 @@ function App() {
           {
             Header: " ",
             accessor: "image",
-            Cell: ({ cell: { value } }) => <img className="icon" src={value} alt=""/>
+            Cell: ({ cell: { value } }) => (
+              <img className="icon" src={value} alt="" />
+            )
           },
           {
             Header: "Name",
@@ -75,10 +77,16 @@ function App() {
         <li>post on product hunt</li>
         <li>add an about page/contact form</li>
         <li>upon launching - thank people on Twitter</li>
-        <li>hide Description column on Mobile/small views? (or convert to a button you can click to see popover of details!)</li>
+        <li>
+          hide Description column on Mobile/small views? (or convert to a button
+          you can click to see popover of details!)
+        </li>
       </ol>
       <h1>newsletters.best</h1>
-      <Table columns={columns} data={newsletters} />
+      <Table
+        columns={columns}
+        data={newsletters.sort(() => Math.random() - 0.5)}
+      />
     </div>
   );
 }
