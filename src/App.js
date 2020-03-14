@@ -1,7 +1,11 @@
 import React, { useMemo } from "react";
+import ReactGA from 'react-ga';
 import Table from "./Table";
 import "./App.css";
 let newsletters = require("./newsletters.json");
+
+const trackingId = "UA-74402730-2";
+ReactGA.initialize(trackingId);
 
 const Categories = ({ values }) => {
   return (
