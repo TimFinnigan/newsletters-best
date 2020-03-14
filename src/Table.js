@@ -1,5 +1,5 @@
 import React from "react";
-import { useTable, useFilters, useGlobalFilter, useSortBy } from "react-table";
+import { useTable, useGlobalFilter, useSortBy } from "react-table";
 
 function GlobalFilter({
   preGlobalFilteredRows,
@@ -40,7 +40,6 @@ export default function Table({ columns, data }) {
       columns,
       data
     },
-    useFilters,
     useGlobalFilter,
     useSortBy
   );

@@ -26,7 +26,7 @@ function App() {
           {
             Header: " ",
             accessor: "image",
-            Cell: ({ cell: { value } }) => <img class="icon" src={value} alt=""/>
+            Cell: ({ cell: { value } }) => <img className="icon" src={value} alt=""/>
           },
           {
             Header: "Name",
