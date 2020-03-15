@@ -69,7 +69,7 @@
         }
     },
     {
-        "author": "Robert Cottrell & Caroline Crampton",
+        "author": "Robert Cottrell, Caroline Crampton",
         "description": "Every day we read hundreds of articles and select the best five for you to enjoy, so you'll always have something to read on the train and interesting things to say at dinner.",
         "categories": [
             "News",
@@ -80,6 +80,19 @@
         "source": {
             "name": "The Browser",
             "url": "https://thebrowser.com/"
+        }
+    },
+    {
+        "author": "Kevin Kelly, Mark Frauenfelder, Claudia Dawson",
+        "description": "A weekly newsletter that gives you 6 brief personal recommendations of cool stuff.",
+        "categories": [
+            "Gadgets"
+        ],
+        "frequency": "Weekly",
+        "image": "https://s3.amazonaws.com/revue/profiles/images/000/014/381/thumb/ThumbReco.png",
+        "source": {
+            "name": "Recomendo",
+            "url": "hhttps://www.getrevue.co/profile/Recomendo"
         }
     }
 ]
