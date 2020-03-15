@@ -1,4 +1,18 @@
 @media only screen and (max-width: 600px) {
+  .App {
+    padding: 0px 5px 5px 5px !important;
+  }
+
+  table td {
+    font-size: 12px !important;
+  }
+
+  .badge {
+    margin: 1px;
+    padding: 2px 4px;
+    font-size: 11px !important;
+  }
+
   table thead tr:first-child,
   table th:first-child,
   table th:nth-child(4),
