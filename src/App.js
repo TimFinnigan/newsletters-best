@@ -77,21 +77,44 @@ function App() {
 
   return (
     <div className="App">
-      <span>TODO</span>
-      <ol>
-        <li>add your own newletter to the top (mail chimp?)</li>
-        <li>post on product hunt</li>
-        <li>add an about page/contact form</li>
-        <li>
-          upon launching - thank people on Twitter (also helps spread the
-          word...)
-        </li>
-      </ol>
       <h1>newsletters.best</h1>
+      <span id="subscribe">
+        <a
+          href="https://tinyletter.com/newsletters-best"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Subscribe
+        </a>{" "}
+        for monthly updates on new newsletters
+      </span>
       <Table
         columns={columns}
         data={newsletters.sort(() => Math.random() - 0.5)}
       />
+      <footer>
+        <span>
+          Made by{" "}
+          <a
+            href="http://timfinnigan.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Tim Finnigan
+          </a>
+        </span>
+      </footer>
+      <span>TODO</span>
+      <ol>
+        <li>Home site: add email. reorder projects(newsletters first)</li>
+        <li>share on product hunt</li>
+        <li>
+          upon launching - thank people on Twitter (also helps spread the
+          word...)
+        </li>
+        <li>Add 100 newsletters</li>
+        <li>Add pagination? start with 50?</li>
+      </ol>
     </div>
   );
 }
