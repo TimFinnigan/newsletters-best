@@ -86,13 +86,26 @@
         "author": "Kevin Kelly, Mark Frauenfelder, Claudia Dawson",
         "description": "A weekly newsletter that gives you 6 brief personal recommendations of cool stuff.",
         "categories": [
-            "Gadgets"
+            "General"
         ],
         "frequency": "Weekly",
         "image": "https://s3.amazonaws.com/revue/profiles/images/000/014/381/thumb/ThumbReco.png",
         "source": {
             "name": "Recomendo",
-            "url": "hhttps://www.getrevue.co/profile/Recomendo"
+            "url": "https://www.getrevue.co/profile/Recomendo"
+        }
+    },
+    {
+        "author": "Kevin Rose",
+        "description": "Kevin's favorite articles, life and body hacks, videos, products, and odd obsessions.",
+        "categories": [
+            "General"
+        ],
+        "frequency": "Monthly",
+        "image": "https://static.wixstatic.com/media/5cf308_3d44d7f1f10845ce8a94b5638faa8503~mv2.png",
+        "source": {
+            "name": "The Journal",
+            "url": "https://www.kevinrose.com/newsletter"
         }
     }
 ]
