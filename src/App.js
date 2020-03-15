@@ -1,11 +1,8 @@
 import React, { useMemo } from "react";
-import ReactGA from 'react-ga';
+import ReactGA from "react-ga";
 import Table from "./Table";
 import "./App.css";
 let newsletters = require("./newsletters.json");
-
-const trackingId = "UA-74402730-2";
-ReactGA.initialize(trackingId);
 
 const Categories = ({ values }) => {
   return (
@@ -21,7 +18,14 @@ const Categories = ({ values }) => {
   );
 };
 
+const initializeAnalytics = function() {
+  const trackingId = "UA-74402730-2";
+  ReactGA.initialize(trackingId);
+  ReactGA.pageview("/Home");
+};
+
 function App() {
+  initializeAnalytics();
   const columns = useMemo(
     () => [
       {
@@ -75,11 +79,13 @@ function App() {
     <div className="App">
       <span>TODO</span>
       <ol>
-        <li>add google analytics</li>
         <li>add your own newletter to the top (mail chimp?)</li>
         <li>post on product hunt</li>
         <li>add an about page/contact form</li>
-        <li>upon launching - thank people on Twitter (also helps spread the word...)</li>
+        <li>
+          upon launching - thank people on Twitter (also helps spread the
+          word...)
+        </li>
       </ol>
       <h1>newsletters.best</h1>
       <Table
