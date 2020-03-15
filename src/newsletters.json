@@ -107,5 +107,18 @@
             "name": "The Journal",
             "url": "https://www.kevinrose.com/newsletter"
         }
+    },
+    {
+        "author": "Nathan Yau",
+        "description": "Get the latest on visualization, statistics, and data.",
+        "categories": [
+            "Data"
+        ],
+        "frequency": "Weekly",
+        "image": "https://i2.wp.com/flowingdata.com/wp-content/uploads/2014/10/logo-lone-square-600-5451c585_site_icon.png",
+        "source": {
+            "name": "FlowingData",
+            "url": "https://flowingdata.com/newsletter/"
+        }
     }
 ]
