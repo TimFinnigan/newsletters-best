@@ -120,5 +120,19 @@
             "name": "FlowingData",
             "url": "https://flowingdata.com/newsletter/"
         }
+    },
+    {
+        "author": "Hacker News",
+        "description": "Since 2010, we've put out a weekly newsletter of the best articles on startups, technology, programming, and more.",
+        "categories": [
+            "Startups",
+            "Technology"
+        ],
+        "frequency": "Weekly",
+        "image": "https://image.winudf.com/v2/image/Y29tLmFwcGVuZ3Vpbi5oYWNrZXJuZXdzX2ljb25fMTUxODYyNDAxOV8wOTI/icon.png?w=170&fakeurl=1",
+        "source": {
+            "name": "Hacker News",
+            "url": "https://hackernewsletter.com/"
+        }
     }
 ]
