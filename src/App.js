@@ -104,17 +104,6 @@ function App() {
           </a>
         </span>
       </footer>
-      <span>TODO</span>
-      <ol>
-        <li>Home site: add email. reorder projects(newsletters first)</li>
-        <li>share on product hunt</li>
-        <li>
-          upon launching - thank people on Twitter (also helps spread the
-          word...)
-        </li>
-        <li>Add 100 newsletters</li>
-        <li>Add pagination? start with 50?</li>
-      </ol>
     </div>
   );
 }
