@@ -57,7 +57,7 @@
     },
     {
         "author": "NY Times",
-        "description": "Wake Up With The Times, Anywhere in the World. Get the Morning Briefing in your inbox. What you need to know to start your day, each weekday morning.",
+        "description": "Wake Up With The Times, Anywhere in the World. What you need to know to start your day, each weekday morning.",
         "categories": [
             "News"
         ],
@@ -159,6 +159,33 @@
         "source": {
             "name": "Motherf*ckin' Monday",
             "url": "https://markmanson.net/newsletter"
+        }
+    },
+    {
+        "author": "Shane Parrish",
+        "description": "Our team scours the web and devours hundreds of books a year to bring you the very best of human thinking. No fluff. No noise. Just the most useful insights you can use today to sharpen your mind, make smarter decisions and live with more purpose.",
+        "categories": [
+            "Business",
+            "General"
+        ],
+        "frequency": "Weekly",
+        "image": "https://pbs.twimg.com/profile_images/1157029452146192391/LFWIz20B_400x400.jpg",
+        "source": {
+            "name": "Farnam Street",
+            "url": "https://fs.blog/newsletter/"
+        }
+    },
+    {
+        "author": "James Clear",
+        "description": "Every Thursday, I send out my “3-2-1” newsletter with 3 ideas from me, 2 quotes from others, and 1 question for you.",
+        "categories": [
+            "Self-Improvement"
+        ],
+        "frequency": "Weekly",
+        "image": "http://jasonferruggia.com/wp-content/uploads/2017/09/Jmaes_Clear_400x400-270x270.jpg",
+        "source": {
+            "name": "3-2-1 Thursday",
+            "url": "https://jamesclear.com/3-2-1"
         }
     }
 ]
