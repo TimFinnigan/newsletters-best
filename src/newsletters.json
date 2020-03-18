@@ -239,5 +239,19 @@
             "name": "Exponential View",
             "url": "https://www.exponentialview.co/"
         }
+    },
+    {
+        "author": "Longform",
+        "description": "Get the very best longform reads delivered to your inbox.",
+        "categories": [
+            "General",
+            "News"
+        ],
+        "frequency": "Weekly",
+        "image": "https://longform.org/assets/site-icons/logo-256-3b5d4724ee2d42b9112886d42e48b691.png",
+        "source": {
+            "name": "Longform",
+            "url": "https://longform.org/newsletter"
+        }
     }
 ]
