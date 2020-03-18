@@ -253,5 +253,18 @@
             "name": "Longform",
             "url": "https://longform.org/newsletter"
         }
+    },
+    {
+        "author": "Casey Newton",
+        "description": "A daily column and newsletter about the intersection of social media and democracy.",
+        "categories": [
+            "Technology"
+        ],
+        "frequency": "Daily",
+        "image": "https://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_400x400.jpg",
+        "source": {
+            "name": "The Interface",
+            "url": "https://www.theverge.com/interface"
+        }
     }
 ]
