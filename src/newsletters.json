@@ -187,5 +187,31 @@
             "name": "3-2-1 Thursday",
             "url": "https://jamesclear.com/3-2-1"
         }
+    },
+    {
+        "author": "Brian Dean, Josh Howarth",
+        "description": "Exploding Topics scours the internet to find exploding trends before they take off. Each week we send you our best Exploding Topics. Plus, expert insight and analysis.",
+        "categories": [
+            "Internet"
+        ],
+        "frequency": "Weekly",
+        "image": "https://pbs.twimg.com/profile_images/1208051900937101315/KiHstqqe_400x400.jpg",
+        "source": {
+            "name": "Exploding Topics",
+            "url": "https://explodingtopics.com/newsletter"
+        }
+    },
+    {
+        "author": "Thomas Marban",
+        "description": "3 interesting finds per day.",
+        "categories": [
+            "General"
+        ],
+        "frequency": "Daily",
+        "image": "https://briefingday.com/static/20200318t082249/logo.svg",
+        "source": {
+            "name": "Briefingday",
+            "url": "https://briefingday.com/"
+        }
     }
 ]
