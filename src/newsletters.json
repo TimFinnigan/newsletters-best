@@ -213,5 +213,18 @@
             "name": "Briefingday",
             "url": "https://briefingday.com/"
         }
+    },
+    {
+        "author": "Austin Kleon",
+        "description": "Every week I send out a list of 10 things I think are worth sharing — new art, writing, and interesting links straight to your inbox.",
+        "categories": [
+            "Art"
+        ],
+        "frequency": "Weekly",
+        "image": "https://austinkleon.com/wp-content/uploads/2018/09/kleon-200px.jpg",
+        "source": {
+            "name": "Newsletter",
+            "url": "https://austinkleon.com/newsletter/"
+        }
     }
 ]
