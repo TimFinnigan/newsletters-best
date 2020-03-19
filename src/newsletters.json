@@ -344,5 +344,58 @@
             "name": "Below The Fold",
             "url": "https://www.acciyo.com/below-the-fold"
         }
+    },
+    {
+        "author": "Dave Pell",
+        "description": "The day's most facinating news.",
+        "categories": [
+            "News"
+        ],
+        "frequency": "Daily",
+        "image": "https://s0.wp.com/wp-content/themes/vip/nextdraft/images/head-large.png",
+        "source": {
+            "name": "NextDraft",
+            "url": "https://nextdraft.com/"
+        }
+    },
+    {
+        "author": "Pitchbook",
+        "description": "The information you need to stay ahead of the changing world of VC, PE and M&A—delivered right to your inbox.",
+        "categories": [
+            "Business",
+            "Technology"
+        ],
+        "frequency": "Daily",
+        "image": "https://pbs.twimg.com/profile_images/878018287724089346/c8fAkNHQ_400x400.jpg",
+        "source": {
+            "name": "The Daily Pitch",
+            "url": "https://pitchbook.com/"
+        }
+    },
+    {
+        "author": "Anna Palmer, Jake Sherman",
+        "description": "Rated the #1 political newsletter by political professionals.",
+        "categories": [
+            "Politics"
+        ],
+        "frequency": "Daily",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/54/38/4e/54384e1e-6f42-4026-c5cd-2622cf824d56/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        "source": {
+            "name": "Politico Playbook",
+            "url": "https://www.politico.com/playbook"
+        }
+    },
+    {
+        "author": "Product Hunt",
+        "description": "A daily digest of the best of Product Hunt, created by your friends.",
+        "categories": [
+            "Politics"
+        ],
+        "frequency": "Daily",
+        "image": "https://miro.medium.com/max/3150/1*rrk0qqmHWx-jbaoC5MZlHA.png",
+        "source": {
+            "name": "Product Hunt Daily",
+            "url": "https://www.politico.com/playbook"
+        }
     }
 ]
