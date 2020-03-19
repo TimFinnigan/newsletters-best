@@ -292,5 +292,31 @@
             "name": "Buffer",
             "url": "https://buffer.com/resources/newsletter"
         }
+    },
+    {
+        "author": "Vox",
+        "description": "The news needs explaining more than ever. Sentences is your daily digest for what’s happening in the world.",
+        "categories": [
+            "News"
+        ],
+        "frequency": "Daily",
+        "image": "https://thesandtrap.com/uploads/monthly_2016_01/1000_yellow.755.95133.png.706ecc89285b5e9cb9f6a532c92148fd.png",
+        "source": {
+            "name": "Vox Sentences",
+            "url": "https://www.vox.com/pages/newsletters"
+        }
+    },
+    {
+        "author": "NPR",
+        "description": "Stay pop culture savvy with NPR’s guide to TV, books, movies, music and more, sent weekly.",
+        "categories": [
+            "Entertainment"
+        ],
+        "frequency": "Weekly",
+        "image": "https://media.npr.org/assets/img/2018/08/03/npr_pchh_podcasttile_sq-80072c7c8dbd762e3efb24127ddc7a823715a4e0.jpg?s=1400",
+        "source": {
+            "name": "Pop Culture Happy Hour",
+            "url": "https://www.npr.org/newsletter/pop-culture"
+        }
     }
 ]
