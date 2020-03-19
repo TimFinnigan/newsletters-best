@@ -266,5 +266,31 @@
             "name": "The Interface",
             "url": "https://www.theverge.com/interface"
         }
+    },
+    {
+        "author": "Morning Brew",
+        "description": "The daily email that makes reading the news actually enjoyable. Stay informed and entertained, for free.",
+        "categories": [
+            "News"
+        ],
+        "frequency": "Daily",
+        "image": "https://pbs.twimg.com/profile_images/1177672352588599296/OLUd0Htt_200x200.png",
+        "source": {
+            "name": "Morning Brew",
+            "url": "https://www.morningbrew.com/"
+        }
+    },
+    {
+        "author": "Buffer",
+        "description": "The latest articles on building your business using social media.",
+        "categories": [
+            "Business"
+        ],
+        "frequency": "Weekly",
+        "image": "https://image.flaticon.com/icons/svg/174/174840.svg",
+        "source": {
+            "name": "Buffer",
+            "url": "https://buffer.com/resources/newsletter"
+        }
     }
 ]
