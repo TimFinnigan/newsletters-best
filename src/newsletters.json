@@ -318,5 +318,31 @@
             "name": "Pop Culture Happy Hour",
             "url": "https://www.npr.org/newsletter/pop-culture"
         }
+    },
+    {
+        "author": "Rohit Bhargava",
+        "description": "The most interesting and underappreciated stories every week (and why they matter)",
+        "categories": [
+            "News"
+        ],
+        "frequency": "Weekly",
+        "image": "https://www.rohitbhargava.com/images/2019/09/rohit-non-obvious-post-its-mobile.jpg",
+        "source": {
+            "name": "Non-Obvious Insights",
+            "url": "https://www.rohitbhargava.com/subscribe"
+        }
+    },
+    {
+        "author": "Below The Fold",
+        "description": "Your weekly source for important stories not making headlines.",
+        "categories": [
+            "News"
+        ],
+        "frequency": "Weekly",
+        "image": "https://www.acciyo.com/hs-fs/hubfs/Screen%20Shot%202019-12-03%20at%201.49.24%20PM.png?width=2488&height=2936&name=Screen%20Shot%202019-12-03%20at%201.49.24%20PM.png",
+        "source": {
+            "name": "Below The Fold",
+            "url": "https://www.acciyo.com/below-the-fold"
+        }
     }
 ]
