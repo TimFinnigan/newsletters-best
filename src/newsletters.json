@@ -397,5 +397,58 @@
             "name": "Product Hunt Daily",
             "url": "https://www.politico.com/playbook"
         }
+    },
+    {
+        "author": "The Skimm",
+        "description": "Let's wake up together. Get clarity on what's happening in the world so you're prepared for whatever the day brings.",
+        "categories": [
+            "News"
+        ],
+        "frequency": "Daily",
+        "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/5b/83/d7/5b83d781-4416-35cb-dee9-fbe9f6ff4b36/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        "source": {
+            "name": "The Skimm",
+            "url": "https://www.theskimm.com/"
+        }
+    },
+    {
+        "author": "InVision",
+        "description": "The digital product design world’s most essential newsletter.",
+        "categories": [
+            "Design"
+        ],
+        "frequency": "Weekly",
+        "image": "https://s3.amazonaws.com/www-inside-design/uploads/2018/08/Old-Blog-sq.png",
+        "source": {
+            "name": "Inside Design",
+            "url": "https://www.invisionapp.com/inside-design/subscribe/"
+        }
+    },
+    {
+        "author": "Kai Brach",
+        "description": "A densely curated mix of practical and inspirational links at the intersection of tech, design, and culture.",
+        "categories": [
+            "Design",
+            "Technology"
+        ],
+        "frequency": "Weekly",
+        "image": "https://www.densediscovery.com/img/logo.svg",
+        "source": {
+            "name": "Dense Discovery",
+            "url": "https://www.densediscovery.com/"
+        }
+    },
+    {
+        "author": "NPR",
+        "description": "Tools to help you get it together.",
+        "categories": [
+            "General"
+        ],
+        "frequency": "Varies",
+        "image": "https://media.npr.org/assets/img/2019/02/08/npr_lifekit-1-_sq.jpg?s=300",
+        "source": {
+            "name": "NPR Life Kit",
+            "url": "https://www.npr.org/newsletter/life-kit"
+        }
     }
 ]
