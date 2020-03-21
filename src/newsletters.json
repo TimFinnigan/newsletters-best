@@ -633,5 +633,32 @@
             "name": "Sofie (Sits Down With A Cup Of Tea And) Writes A Letter",
             "url": "https://www.sofiehagen.com/newsletter"
         }
+    },
+    {
+        "author": "AmyAnn Cadwell",
+        "description": "A 30 second read delivered to your inbox each morning with sustainable recipes, podcasts, artists, articles, and more.",
+        "categories": [
+            "General"
+        ],
+        "frequency": "Daily",
+        "image": "https://media-exp1.licdn.com/dms/image/C5603AQEf7o3oDIAzWQ/profile-displayphoto-shrink_200_200/0?e=1586995200&v=beta&t=P4DfpWsqtpb6t9pYukg78s3OpyWggm7Po-LTrK6iM80",
+        "source": {
+            "name": "The Daily Good",
+            "url": "https://www.thegoodtrade.com/the-daily-good"
+        }
+    },
+    {
+        "author": "Lit Hub",
+        "description": "The best stories from over 200 sources.",
+        "categories": [
+            "General"
+        ],
+        "frequency": "Daily",
+        "image": "https://pbs.twimg.com/profile_images/719305894534586368/xAlNwL1E.jpg",
+        "source": {
+            "name": "Lit Hub Daily",
+            "url": "https://lithub.com/tag/lit-hub-daily/"
+        }
     }
+   
 ]
