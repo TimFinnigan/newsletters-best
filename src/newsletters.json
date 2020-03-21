@@ -481,7 +481,7 @@
         "author": "Dan Pink",
         "description": "Each short and simple issue includes: A short video with science-based tools and tips for working smarter and living better, and a few paragraphs about an idea that's caught my attention and seemed worth sharing.",
         "categories": [
-            "Business"
+            "Work"
         ],
         "frequency": "Bi-Weekly",
         "image": "https://www.leadinglearning.com/wp-content/uploads/2019/08/Daniel-Pink_2_sq_sm.jpeg",
@@ -593,6 +593,45 @@
         "source": {
             "name": "The Single Supplement",
             "url": "https://thesinglesupplement.substack.com/"
+        }
+    },
+    {
+        "author": "Jenny Stallard",
+        "description": "A newsletter about mental health and wellbeing challenges in self employed life.",
+        "categories": [
+            "Work"
+        ],
+        "frequency": "Monthly",
+        "image": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0e79935-86e5-4801-88e2-3f653feab3de_256x256.png",
+        "source": {
+            "name": "Freelance Feels",
+            "url": "https://freelancefeels.substack.com/"
+        }
+    },
+    {
+        "author": "Emma Gannon",
+        "description": "A newsletter — brought to you by author Emma Gannon — all about living a life more curious.",
+        "categories": [
+            "General"
+        ],
+        "frequency": "Varies",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf9-RLAqgUdO6HxrbIOmlt0orosoGrFlCWAm8FB6rUsSmkPwja",
+        "source": {
+            "name": "The Hyphen",
+            "url": "https://emmagannon.us4.list-manage.com/subscribe?u=74e631ac2d7b7395bb2f0aad4&id=1b400302fa"
+        }
+    },
+    {
+        "author": "Sofie Hagen",
+        "description": "A fortnightly letter sent straight to your inbox. It is honest, flawed, sociopolitical, funny, weird, intimate, attention-seeking, informative, anxious, opinionated, romantic, filthy and in compliance with the GDPR requirements.",
+        "categories": [
+            "Comedy"
+        ],
+        "frequency": "Bi-Weekly",
+        "image": "https://pbs.twimg.com/profile_images/1140353970285817857/hfC0hMZR_400x400.jpg",
+        "source": {
+            "name": "Sofie (Sits Down With A Cup Of Tea And) Writes A Letter",
+            "url": "https://www.sofiehagen.com/newsletter"
         }
     }
 ]
