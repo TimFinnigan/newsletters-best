@@ -22,7 +22,7 @@
             "Technology"
         ],
         "frequency": "Weekly",
-        "image": "https://peterattiamd.com/wp-content/uploads/2018/06/TimFerrissShoot-186.jpg",
+        "image": "five-bullet-friday.jpg",
         "source": {
             "name": "Five-Bullet Friday",
             "url": "https://go.tim.blog/5-bullet-friday-1/"
@@ -35,7 +35,7 @@
             "Books"
         ],
         "frequency": "Monthly",
-        "image": "https://149366099.v2.pressablecdn.com/wp-content/uploads/2018/06/r-holiday-500px.jpg",
+        "image": "reading-recommendations.jpg",
         "source": {
             "name": "Reading Recommendations",
             "url": "https://ryanholiday.net/reading-newsletter/"
@@ -49,7 +49,7 @@
             "Technology"
         ],
         "frequency": "Weekly",
-        "image": "https://pbs.twimg.com/profile_images/845396356579508224/1ruiOPLI_400x400.jpg",
+        "image": "benedict-evans.jpg",
         "source": {
             "name": "Newsletter",
             "url": "https://www.ben-evans.com/"
@@ -62,7 +62,7 @@
             "News"
         ],
         "frequency": "Daily",
-        "image": "https://static01.nyt.com/email-images/Newsletter%20Icons/Morning-Briefing.png",
+        "image": "morning-briefing.png",
         "source": {
             "name": "Morning Briefing",
             "url": "https://www.nytimes.com/interactive/2018/briefing/global-morning-briefing-newsletter-signup.html"
@@ -76,7 +76,7 @@
             "News"
         ],
         "frequency": "Weekly",
-        "image": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/10262151_10153498700767475_3970334184715487679_n.jpg?_nc_cat=109&_nc_sid=85a577&_nc_ohc=EcJGNgWArjEAX_WXA1s&_nc_ht=scontent-ort2-1.xx&oh=eb7b09a2ffc81404d0643d6f8686292d&oe=5E94615E",
+        "image": "the-browser.jpg",
         "source": {
             "name": "The Browser",
             "url": "https://thebrowser.com/"
@@ -89,7 +89,7 @@
             "General"
         ],
         "frequency": "Weekly",
-        "image": "https://s3.amazonaws.com/revue/profiles/images/000/014/381/thumb/ThumbReco.png",
+        "image": "recomendo.png",
         "source": {
             "name": "Recomendo",
             "url": "https://www.getrevue.co/profile/Recomendo"
@@ -102,7 +102,7 @@
             "General"
         ],
         "frequency": "Monthly",
-        "image": "https://static.wixstatic.com/media/5cf308_3d44d7f1f10845ce8a94b5638faa8503~mv2.png",
+        "image": "the-journal.png",
         "source": {
             "name": "The Journal",
             "url": "https://www.kevinrose.com/newsletter"
@@ -115,7 +115,7 @@
             "Data"
         ],
         "frequency": "Weekly",
-        "image": "https://i2.wp.com/flowingdata.com/wp-content/uploads/2014/10/logo-lone-square-600-5451c585_site_icon.png",
+        "image": "flowing-data.png",
         "source": {
             "name": "FlowingData",
             "url": "https://flowingdata.com/newsletter/"
@@ -129,7 +129,7 @@
             "Technology"
         ],
         "frequency": "Weekly",
-        "image": "https://image.winudf.com/v2/image/Y29tLmFwcGVuZ3Vpbi5oYWNrZXJuZXdzX2ljb25fMTUxODYyNDAxOV8wOTI/icon.png?w=170&fakeurl=1",
+        "image": "hacker-news.png",
         "source": {
             "name": "Hacker News",
             "url": "https://hackernewsletter.com/"
@@ -142,7 +142,7 @@
             "Business"
         ],
         "frequency": "Daily",
-        "image": "https://megaphone-prod.s3.amazonaws.com/podcasts/6f5e0684-0f62-11e9-8892-c3999a92d94d/image/uploads_2F1572397783054-6o9dpywwwhw-d0dae8b553156c24ea5f76003bd5b130_2FSnacks%2BSquare%2BLogo.png",
+        "image": "robinhood-snacks.png",
         "source": {
             "name": "Robinhood Snacks",
             "url": "https://snacks.robinhood.com/"
@@ -155,7 +155,7 @@
             "Self-Improvement"
         ],
         "frequency": "Weekly",
-        "image": "https://media-exp1.licdn.com/dms/image/C4D0BAQHZjpFXaLQSnQ/company-logo_200_200/0?e=2159024400&v=beta&t=ZRqvMdS0g1YkJH3eAWKwRlHAU0K4TJ4aoZITC5MicEk",
+        "image": "motherf*ckin-monday.png",
         "source": {
             "name": "Motherf*ckin' Monday",
             "url": "https://markmanson.net/newsletter"
@@ -169,7 +169,7 @@
             "General"
         ],
         "frequency": "Weekly",
-        "image": "https://pbs.twimg.com/profile_images/1157029452146192391/LFWIz20B_400x400.jpg",
+        "image": "farnam-street.jpg",
         "source": {
             "name": "Farnam Street",
             "url": "https://fs.blog/newsletter/"
@@ -182,7 +182,7 @@
             "Self-Improvement"
         ],
         "frequency": "Weekly",
-        "image": "http://jasonferruggia.com/wp-content/uploads/2017/09/Jmaes_Clear_400x400-270x270.jpg",
+        "image": "3-2-1-thursday.jpg",
         "source": {
             "name": "3-2-1 Thursday",
             "url": "https://jamesclear.com/3-2-1"
@@ -195,7 +195,7 @@
             "Internet"
         ],
         "frequency": "Weekly",
-        "image": "https://pbs.twimg.com/profile_images/1208051900937101315/KiHstqqe_400x400.jpg",
+        "image": "exploding-topics.jpg",
         "source": {
             "name": "Exploding Topics",
             "url": "https://explodingtopics.com/newsletter"
@@ -208,7 +208,7 @@
             "General"
         ],
         "frequency": "Daily",
-        "image": "https://pbs.twimg.com/profile_images/1192416851646656512/fhvmdiOP_400x400.jpg",
+        "image": "briefingday.jpg",
         "source": {
             "name": "Briefingday",
             "url": "https://briefingday.com/"
@@ -221,7 +221,7 @@
             "Art"
         ],
         "frequency": "Weekly",
-        "image": "https://austinkleon.com/wp-content/uploads/2018/09/kleon-200px.jpg",
+        "image": "austin-kleon.jpg",
         "source": {
             "name": "Newsletter",
             "url": "https://austinkleon.com/newsletter/"
@@ -234,7 +234,7 @@
             "Technology"
         ],
         "frequency": "Weekly",
-        "image": "https://cdn.substack.com/image/fetch/w_170,c_limit,f_auto,q_auto:best/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F03e96f1c-dc48-4b56-9cab-c69519c23c05_256x256",
+        "image": "exponential-view.png",
         "source": {
             "name": "Exponential View",
             "url": "https://www.exponentialview.co/"
@@ -248,7 +248,7 @@
             "News"
         ],
         "frequency": "Weekly",
-        "image": "https://longform.org/assets/site-icons/logo-256-3b5d4724ee2d42b9112886d42e48b691.png",
+        "image": "longform.png",
         "source": {
             "name": "Longform",
             "url": "https://longform.org/newsletter"
@@ -261,7 +261,7 @@
             "Technology"
         ],
         "frequency": "Daily",
-        "image": "https://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_400x400.jpg",
+        "image": "the-interface.jpg",
         "source": {
             "name": "The Interface",
             "url": "https://www.theverge.com/interface"
@@ -274,7 +274,7 @@
             "News"
         ],
         "frequency": "Daily",
-        "image": "https://pbs.twimg.com/profile_images/1177672352588599296/OLUd0Htt_200x200.png",
+        "image": "morning-brew.png",
         "source": {
             "name": "Morning Brew",
             "url": "https://www.morningbrew.com/"
@@ -287,7 +287,7 @@
             "Business"
         ],
         "frequency": "Weekly",
-        "image": "https://image.flaticon.com/icons/svg/174/174840.svg",
+        "image": "buffer.svg",
         "source": {
             "name": "Buffer",
             "url": "https://buffer.com/resources/newsletter"
@@ -300,7 +300,7 @@
             "News"
         ],
         "frequency": "Daily",
-        "image": "https://thesandtrap.com/uploads/monthly_2016_01/1000_yellow.755.95133.png.706ecc89285b5e9cb9f6a532c92148fd.png",
+        "image": "vox-sentences.png",
         "source": {
             "name": "Vox Sentences",
             "url": "https://www.vox.com/pages/newsletters"
@@ -313,7 +313,7 @@
             "Entertainment"
         ],
         "frequency": "Weekly",
-        "image": "https://media.npr.org/assets/img/2018/08/03/npr_pchh_podcasttile_sq-80072c7c8dbd762e3efb24127ddc7a823715a4e0.jpg?s=1400",
+        "image": "pop-culture-happy-hour.jpg",
         "source": {
             "name": "Pop Culture Happy Hour",
             "url": "https://www.npr.org/newsletter/pop-culture"
@@ -326,7 +326,7 @@
             "News"
         ],
         "frequency": "Weekly",
-        "image": "https://www.rohitbhargava.com/images/2019/09/rohit-non-obvious-post-its-mobile.jpg",
+        "image": "non-obvious-insights.jpg",
         "source": {
             "name": "Non-Obvious Insights",
             "url": "https://www.rohitbhargava.com/subscribe"
@@ -339,7 +339,7 @@
             "News"
         ],
         "frequency": "Weekly",
-        "image": "https://www.acciyo.com/hs-fs/hubfs/Screen%20Shot%202019-12-03%20at%201.49.24%20PM.png?width=2488&height=2936&name=Screen%20Shot%202019-12-03%20at%201.49.24%20PM.png",
+        "image": "below-the-fold.jpg",
         "source": {
             "name": "Below The Fold",
             "url": "https://www.acciyo.com/below-the-fold"
@@ -352,7 +352,7 @@
             "News"
         ],
         "frequency": "Daily",
-        "image": "https://s0.wp.com/wp-content/themes/vip/nextdraft/images/head-large.png",
+        "image": "next-draft.png",
         "source": {
             "name": "NextDraft",
             "url": "https://nextdraft.com/"
@@ -366,7 +366,7 @@
             "Technology"
         ],
         "frequency": "Daily",
-        "image": "https://pbs.twimg.com/profile_images/878018287724089346/c8fAkNHQ_400x400.jpg",
+        "image": "the-daily-pitch.jpg",
         "source": {
             "name": "The Daily Pitch",
             "url": "https://pitchbook.com/"
@@ -379,7 +379,7 @@
             "Politics"
         ],
         "frequency": "Daily",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/54/38/4e/54384e1e-6f42-4026-c5cd-2622cf824d56/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        "image": "politico.png",
         "source": {
             "name": "Politico Playbook",
             "url": "https://www.politico.com/playbook"
@@ -392,7 +392,7 @@
             "Politics"
         ],
         "frequency": "Daily",
-        "image": "https://miro.medium.com/max/3150/1*rrk0qqmHWx-jbaoC5MZlHA.png",
+        "image": "product-hunt-daily.png",
         "source": {
             "name": "Product Hunt Daily",
             "url": "https://www.politico.com/playbook"
@@ -405,7 +405,7 @@
             "News"
         ],
         "frequency": "Daily",
-        "image": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/5b/83/d7/5b83d781-4416-35cb-dee9-fbe9f6ff4b36/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+        "image": "the-skimm.png",
         "source": {
             "name": "The Skimm",
             "url": "https://www.theskimm.com/"
@@ -418,7 +418,7 @@
             "Design"
         ],
         "frequency": "Weekly",
-        "image": "https://s3.amazonaws.com/www-inside-design/uploads/2018/08/Old-Blog-sq.png",
+        "image": "inside-design.png",
         "source": {
             "name": "Inside Design",
             "url": "https://www.invisionapp.com/inside-design/subscribe/"
@@ -432,7 +432,7 @@
             "Technology"
         ],
         "frequency": "Weekly",
-        "image": "https://www.densediscovery.com/img/logo.svg",
+        "image": "dense-discovery.svg",
         "source": {
             "name": "Dense Discovery",
             "url": "https://www.densediscovery.com/"
@@ -445,7 +445,7 @@
             "General"
         ],
         "frequency": "Varies",
-        "image": "https://media.npr.org/assets/img/2019/02/08/npr_lifekit-1-_sq.jpg?s=300",
+        "image": "npr-life-kit.jpg",
         "source": {
             "name": "NPR Life Kit",
             "url": "https://www.npr.org/newsletter/life-kit"
@@ -458,7 +458,7 @@
             "Philosophy"
         ],
         "frequency": "Daily",
-        "image": "https://www.azquotes.com/public/pictures/authors/cc/4c/cc4cf0129a94fa13bcc9369d96b4f322/53b1311581ae7_marcus_aurelius.jpg",
+        "image": "daily-stoic.jpg",
         "source": {
             "name": "Daily Stoic",
             "url": "https://dailystoic.com/"
@@ -471,7 +471,7 @@
             "Creativity"
         ],
         "frequency": "Bi-Weekly",
-        "image": "https://hurryslowly.co/wp-content/uploads/2017/08/HS_logo_3000.png",
+        "image": "hurry-slowly.png",
         "source": {
             "name": "Hurry Slowly",
             "url": "https://hurryslowly.co/newsletter/"
@@ -484,7 +484,7 @@
             "Work"
         ],
         "frequency": "Bi-Weekly",
-        "image": "https://www.leadinglearning.com/wp-content/uploads/2019/08/Daniel-Pink_2_sq_sm.jpeg",
+        "image": "dan-pink.jpeg",
         "source": {
             "name": "Newsletter",
             "url": "https://www.danpink.com/ac/latest-newsletter/"
@@ -497,7 +497,7 @@
             "Technology"
         ],
         "frequency": "Daily",
-        "image": "https://pbs.twimg.com/profile_images/1069810843951411200/pNNOq5nL_400x400.jpg",
+        "image": "tldr.jpg",
         "source": {
             "name": "TLDR",
             "url": "https://www.tldrnewsletter.com/"
@@ -511,7 +511,7 @@
             "Psychology"
         ],
         "frequency": "Monthly",
-        "image": "https://pbs.twimg.com/profile_images/1169919000123518978/37QQ8Una_400x400.jpg",
+        "image": "granted.jpg",
         "source": {
             "name": "Granted",
             "url": "https://www.adamgrant.net/newsletter"
@@ -524,7 +524,7 @@
             "Technology"
         ],
         "frequency": "Weekly",
-        "image": "https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/79142340_154018695954129_2890249270192078296_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=26mxnVGWwF8AX8zS5JI&oh=4585ae624cbbbac85fade7fffcc3297e&oe=5ED88275",
+        "image": "clean-code-friday.jpg",
         "source": {
             "name": "Clean Code Friday",
             "url": "https://kalletech.com/clean-code-friday/"
@@ -537,7 +537,7 @@
             "News"
         ],
         "frequency": "Weekly",
-        "image": "https://www.washingtonpost.com/resizer/EvmBpA8HLGJ9zGncWYD2z-fH3AE=/480x0/www.washingtonpost.com/wp-stat/emails/page/bundles/thetrailer.jpg",
+        "image": "the-trailer.jpeg",
         "source": {
             "name": "The Trailer",
             "url": "https://www.washingtonpost.com/news/powerpost/wp/category/the-daily-202/"
@@ -550,7 +550,7 @@
             "Marketing"
         ],
         "frequency": "Weekly",
-        "image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032016/untitled-1_260.png?itok=tDZrIehB",
+        "image": "moz-top-10.png",
         "source": {
             "name": "Moz Top 10",
             "url": "https://moz.com/moztop10"
@@ -563,7 +563,7 @@
             "Relationships"
         ],
         "frequency": "Varies",
-        "image": "https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/22426174_1855953221401541_4907454793530515140_o.jpg?_nc_cat=103&_nc_sid=85a577&_nc_ohc=rS7OERQLY4kAX80E-nl&_nc_ht=scontent-ort2-1.xx&oh=bcd693fae0386f07dc1acc98e0ac9183&oe=5E9BABEA",
+        "image": "conversations-on-love.jpg",
         "source": {
             "name": "Conversations on Love",
             "url": "https://instagram.us18.list-manage.com/subscribe?u=ca50d07f68560ca687f3eece1&id=f8198ddab2"
@@ -576,7 +576,7 @@
             "Gardening"
         ],
         "frequency": "Varies",
-        "image": "https://cdn.shopify.com/s/files/1/2199/1169/products/h800-257046iedFUgZz_300x300.jpg?v=1576853011",
+        "image": "noughticulture.jpg",
         "source": {
             "name": "noughticulture",
             "url": "https://noughticulture.substack.com/"
@@ -589,7 +589,7 @@
             "General"
         ],
         "frequency": "Varies",
-        "image": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79ff8d8-ceca-4a86-8bbb-5c0b57161109_256x256.png",
+        "image": "the-single-supplement.png",
         "source": {
             "name": "The Single Supplement",
             "url": "https://thesinglesupplement.substack.com/"
@@ -602,7 +602,7 @@
             "Work"
         ],
         "frequency": "Monthly",
-        "image": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0e79935-86e5-4801-88e2-3f653feab3de_256x256.png",
+        "image": "freelance-feels.jpeg",
         "source": {
             "name": "Freelance Feels",
             "url": "https://freelancefeels.substack.com/"
@@ -615,7 +615,7 @@
             "General"
         ],
         "frequency": "Varies",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf9-RLAqgUdO6HxrbIOmlt0orosoGrFlCWAm8FB6rUsSmkPwja",
+        "image": "the-hyphen.jpeg",
         "source": {
             "name": "The Hyphen",
             "url": "https://emmagannon.us4.list-manage.com/subscribe?u=74e631ac2d7b7395bb2f0aad4&id=1b400302fa"
@@ -628,7 +628,7 @@
             "Comedy"
         ],
         "frequency": "Bi-Weekly",
-        "image": "https://pbs.twimg.com/profile_images/1140353970285817857/hfC0hMZR_400x400.jpg",
+        "image": "sofie-writes-a-letter.jpg",
         "source": {
             "name": "Sofie (Sits Down With A Cup Of Tea And) Writes A Letter",
             "url": "https://www.sofiehagen.com/newsletter"
@@ -641,7 +641,7 @@
             "General"
         ],
         "frequency": "Daily",
-        "image": "https://media-exp1.licdn.com/dms/image/C5603AQEf7o3oDIAzWQ/profile-displayphoto-shrink_200_200/0?e=1586995200&v=beta&t=P4DfpWsqtpb6t9pYukg78s3OpyWggm7Po-LTrK6iM80",
+        "image": "the-daily-good.jpeg",
         "source": {
             "name": "The Daily Good",
             "url": "https://www.thegoodtrade.com/the-daily-good"
@@ -654,7 +654,7 @@
             "General"
         ],
         "frequency": "Daily",
-        "image": "https://pbs.twimg.com/profile_images/719305894534586368/xAlNwL1E.jpg",
+        "image": "lit-hub.jpg",
         "source": {
             "name": "Lit Hub Daily",
             "url": "https://lithub.com/tag/lit-hub-daily/"
@@ -667,7 +667,7 @@
             "Poetry"
         ],
         "frequency": "Daily",
-        "image": "https://api.poets.org/sites/default/files/styles/poem_a_day_portrait/public/images/biographies/Mahogany%20L.%20Browne_credit%20Jennie%20Bergqvist-Newbioimage2020.png?itok=I97WyWUj",
+        "image": "poem-a-day.png",
         "source": {
             "name": "Poem a Day",
             "url": "https://poets.org/poem-a-day"
@@ -680,7 +680,7 @@
             "News"
         ],
         "frequency": "Daily",
-        "image": "https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",
+        "image": "5-things.png",
         "source": {
             "name": "5 Things",
             "url": "https://www.cnn.com/specials/5-things"
@@ -693,7 +693,7 @@
             "General"
         ],
         "frequency": "Weekly",
-        "image": "https://aarp-content.brightspotcdn.com/dims4/default/3346809/2147483647/strip/true/crop/200x200+0+0/resize/150x150!/quality/75/?url=http%3A%2F%2Faarp-brightspot.s3.amazonaws.com%2Fcontent%2F1a%2Fec%2Fa2d7eea540a99bf93b253c88eb27%2Fportrait-illustration-of-rosie-perez-by-anjini-maxwell-200x200.jpg",
+        "image": "the-girlfriend.jpeg",
         "source": {
             "name": "The Girlfriend",
             "url": "https://www.thegirlfriend.com/"
