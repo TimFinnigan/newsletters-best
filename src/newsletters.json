@@ -450,5 +450,57 @@
             "name": "NPR Life Kit",
             "url": "https://www.npr.org/newsletter/life-kit"
         }
+    },
+    {
+        "author": "Ryan Holiday",
+        "description": "Each morning we send a short (~500 word) email inspired by Marcus Aurelius, Seneca, Epictetus, and more. Each email will help you cultivate strength, insight, and wisdom to live your best life.",
+        "categories": [
+            "Philosophy"
+        ],
+        "frequency": "Daily",
+        "image": "https://www.azquotes.com/public/pictures/authors/cc/4c/cc4cf0129a94fa13bcc9369d96b4f322/53b1311581ae7_marcus_aurelius.jpg",
+        "source": {
+            "name": "Daily Stoic",
+            "url": "https://dailystoic.com/"
+        }
+    },
+    {
+        "author": "Jocelyn K. Glei",
+        "description": "Smart, actionable ideas on how to be more creative and resilient.",
+        "categories": [
+            "Creativity"
+        ],
+        "frequency": "Bi-Weekly",
+        "image": "https://hurryslowly.co/wp-content/uploads/2017/08/HS_logo_3000.png",
+        "source": {
+            "name": "Hurry Slowly",
+            "url": "https://hurryslowly.co/newsletter/"
+        }
+    },
+    {
+        "author": "Dan Pink",
+        "description": "Each short and simple issue includes: A short video with science-based tools and tips for working smarter and living better, and a few paragraphs about an idea that's caught my attention and seemed worth sharing.",
+        "categories": [
+            "Business"
+        ],
+        "frequency": "Bi-Weekly",
+        "image": "https://www.leadinglearning.com/wp-content/uploads/2019/08/Daniel-Pink_2_sq_sm.jpeg",
+        "source": {
+            "name": "Newsletter",
+            "url": "https://www.danpink.com/ac/latest-newsletter/"
+        }
+    },
+    {
+        "author": "Dan Ni",
+        "description": "a daily newsletter with links and TLDRs of the most interesting stories in tech, science, and coding!",
+        "categories": [
+            "Technology"
+        ],
+        "frequency": "Daily",
+        "image": "https://pbs.twimg.com/profile_images/1069810843951411200/pNNOq5nL_400x400.jpg",
+        "source": {
+            "name": "TLDR",
+            "url": "https://www.tldrnewsletter.com/"
+        }
     }
 ]
