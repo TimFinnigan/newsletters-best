@@ -208,7 +208,7 @@
             "General"
         ],
         "frequency": "Daily",
-        "image": "https://briefingday.com/static/20200318t082249/logo.svg",
+        "image": "https://pbs.twimg.com/profile_images/1192416851646656512/fhvmdiOP_400x400.jpg",
         "source": {
             "name": "Briefingday",
             "url": "https://briefingday.com/"
@@ -659,6 +659,44 @@
             "name": "Lit Hub Daily",
             "url": "https://lithub.com/tag/lit-hub-daily/"
         }
+    },
+    {
+        "author": "Mahogany L. Browne",
+        "description": "The original and only daily digital poetry series featuring over 250 new, previously unpublished poems by today's talented poets each year.",
+        "categories": [
+            "Poetry"
+        ],
+        "frequency": "Daily",
+        "image": "https://api.poets.org/sites/default/files/styles/poem_a_day_portrait/public/images/biographies/Mahogany%20L.%20Browne_credit%20Jennie%20Bergqvist-Newbioimage2020.png?itok=I97WyWUj",
+        "source": {
+            "name": "Poem a Day",
+            "url": "https://poets.org/poem-a-day"
+        }
+    },
+    {
+        "author": "CNN",
+        "description": "The best stories from over 200 sources.",
+        "categories": [
+            "News"
+        ],
+        "frequency": "Daily",
+        "image": "https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",
+        "source": {
+            "name": "5 Things",
+            "url": "https://www.cnn.com/specials/5-things"
+        }
+    },
+    {
+        "author": "AARP",
+        "description": "The Girlfriend is a weekly newsletter by AARP for women ages 40+ and provides a variety of information such as hot trends, health goals, and how to deal with your kids and bosses. A little bit of everything for Gen X women.",
+        "categories": [
+            "General"
+        ],
+        "frequency": "Weekly",
+        "image": "https://aarp-content.brightspotcdn.com/dims4/default/3346809/2147483647/strip/true/crop/200x200+0+0/resize/150x150!/quality/75/?url=http%3A%2F%2Faarp-brightspot.s3.amazonaws.com%2Fcontent%2F1a%2Fec%2Fa2d7eea540a99bf93b253c88eb27%2Fportrait-illustration-of-rosie-perez-by-anjini-maxwell-200x200.jpg",
+        "source": {
+            "name": "The Girlfriend",
+            "url": "https://www.thegirlfriend.com/"
+        }
     }
-   
 ]
