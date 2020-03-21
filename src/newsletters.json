@@ -519,7 +519,7 @@
     },
     {
         "author": "Kalle Hallden",
-        "description": "books, apps, articles, podcast episodes, coding tips and ideas I have. And also anything and everything else I might discover. Mostly related to programming, tech and productivity.",
+        "description": "Books, apps, articles, podcast episodes, coding tips and ideas I have. And also anything and everything else I might discover. Mostly related to programming, tech and productivity.",
         "categories": [
             "Technology"
         ],
@@ -541,6 +541,58 @@
         "source": {
             "name": "The Trailer",
             "url": "https://www.washingtonpost.com/news/powerpost/wp/category/the-daily-202/"
+        }
+    },
+    {
+        "author": "Moz",
+        "description": "The 10 most valuable articles about SEO and online marketing that we could find.",
+        "categories": [
+            "Marketing"
+        ],
+        "frequency": "Weekly",
+        "image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032016/untitled-1_260.png?itok=tDZrIehB",
+        "source": {
+            "name": "Moz Top 10",
+            "url": "https://moz.com/moztop10"
+        }
+    },
+    {
+        "author": "Natasha Lunn",
+        "description": "A newsletter investigating love, one conversation at a time.",
+        "categories": [
+            "Relationships"
+        ],
+        "frequency": "Varies",
+        "image": "https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/22426174_1855953221401541_4907454793530515140_o.jpg?_nc_cat=103&_nc_sid=85a577&_nc_ohc=rS7OERQLY4kAX80E-nl&_nc_ht=scontent-ort2-1.xx&oh=bcd693fae0386f07dc1acc98e0ac9183&oe=5E9BABEA",
+        "source": {
+            "name": "Conversations on Love",
+            "url": "https://instagram.us18.list-manage.com/subscribe?u=ca50d07f68560ca687f3eece1&id=f8198ddab2"
+        }
+    },
+    {
+        "author": "Alice Vincent",
+        "description": "A newsletter about gardening as well as everyday sources of joy.",
+        "categories": [
+            "Gardening"
+        ],
+        "frequency": "Varies",
+        "image": "https://cdn.shopify.com/s/files/1/2199/1169/products/h800-257046iedFUgZz_300x300.jpg?v=1576853011",
+        "source": {
+            "name": "noughticulture",
+            "url": "https://noughticulture.substack.com/"
+        }
+    },
+    {
+        "author": "Nicola Slawson",
+        "description": "An uplifting and thoughtful newsletter for single women.",
+        "categories": [
+            "General"
+        ],
+        "frequency": "Varies",
+        "image": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe79ff8d8-ceca-4a86-8bbb-5c0b57161109_256x256.png",
+        "source": {
+            "name": "The Single Supplement",
+            "url": "https://thesinglesupplement.substack.com/"
         }
     }
 ]
