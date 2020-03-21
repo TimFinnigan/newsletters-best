@@ -32,16 +32,16 @@ function App() {
         Header: "Newsletter",
         columns: [
           {
-            Header: "xx",
-            accessor: "xx"
+            Header: " ",
+            accessor: "image",
+            Cell: ({ cell: { value } }) => (
+              <img
+                className="icon"
+                src={process.env.PUBLIC_URL + "/logos/" + value}
+                alt=""
+              />
+            )
           },
-          // {
-          //   Header: " ",
-          //   accessor: "image",
-          //   Cell: ({ cell: { value } }) => (
-          //     <img className="icon" src={value} alt="" />
-          //   )
-          // },
           {
             Header: "Name",
             accessor: "source",
